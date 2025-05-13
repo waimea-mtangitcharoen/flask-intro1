@@ -13,3 +13,10 @@ section#hero h1{
     font-family: 'Courier New', Courier, monospace;
     color: white;
 }
+
+#rand-num {
+    font-size: 10rem;
+    color: var(--pico-primary-background);
+    font-weight: bold;
+    text-align: center;
+}
